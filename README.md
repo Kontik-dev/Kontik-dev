@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kontk</h1>
 <h3 align="center">Kontik Halt Biggest Cheat Paster and Skidder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kontik-dev&label=Profile%20views&color=0e75b6&style=flat" alt="kontik-dev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kontik-dev" alt="kontik-dev" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kontik-dev&label=Profile%20views&color=b40e0e&style=plastic" alt="kontik-dev" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/kontik.wtf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kontik.wtf" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,6 +13,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kontik-dev&show_icons=true&locale=en&layout=compact" alt="kontik-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kontik-dev&show_icons=true&locale=en" alt="kontik-dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kontik-dev&show_icons=true&theme=dark&locale=de" alt="kontik-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kontik-dev&" alt="kontik-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kontik-dev&theme=dark" alt="kontik-dev" /></p>
