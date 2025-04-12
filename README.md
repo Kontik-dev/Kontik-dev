@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kontk</h1>
+<h1 align="center">Hi 👋, I'm Kontik</h1>
 <h3 align="center">Kontik Halt Biggest Cheat Paster and Skidder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kontik-dev&label=Profile%20views&color=b40e0e&style=plastic" alt="kontik-dev" /> </p>
